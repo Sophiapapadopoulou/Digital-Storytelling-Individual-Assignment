@@ -13,7 +13,7 @@
 
 
 # 1st Deliverable
-Δημιουργησα project τυπου Universal Render Pipeline, αφαιρεσα την σκηνη που υπηρχε ηδη (sample scene) και δημιουργησα μια κενη
+
 
 # 2nd Deliverable
 
