@@ -6,7 +6,8 @@
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment
 
 # Introduction
-
+Εργασια για το μαθημα Ψηφιακες Μορφες Αφηγησης
+Περιλαμβανει τη δημιουργια ψηφιακου κοσμου-animation- με την συνθεση σκηνικων/περιβαλλων χωρος, χρωματικα, ακουστικα και οπτικα εφε, χαρακτηρες και κινηση χαρακτηρων. Εγινε χρηση του προγραμματος Unity και πληρης αξιοποιηση των οδηγιων που βρισκονται στην ισοσελιδα Unity Learn για την ψηφιακη αφηγηση.
 
 
 # Summary
@@ -30,4 +31,4 @@
 
 
 # Sources
-https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+https://learn.unity.com/course/real-time-animated-storytelling?uv=2019.4
