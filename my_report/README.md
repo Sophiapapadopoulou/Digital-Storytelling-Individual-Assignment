@@ -68,6 +68,10 @@ H Επεξεργασια του τιτλου βρισκεται εδω (χρησ
 εδω βρισκεται ο,τι χρειαστηκε να κατεβασω (cinemachine, post processing, recorder για την καταγραφη της ταινιας, twxt mesh pro, unity ui, universal rp):![pack](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/a90338b7-a875-4397-964e-a81afcf5ea84)
 
 
+![εικόνα_2023-06-05_195453067](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/e821940c-9b7f-4975-a017-7820d30260e8)
+![tr](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/a9469456-2507-44ae-af75-3d82a3e937e9)
+
+
 # Conclusions
 
 
