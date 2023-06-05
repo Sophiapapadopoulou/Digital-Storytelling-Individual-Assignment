@@ -16,6 +16,8 @@ UNIT 1,2,3,4: Τοποθετηση σκηνικου, δημιουργια τρε
 
 UNIT 5,6,7: Χρησεις της κυριας καμερας και διαφορετικων πλανων, πηγες φωτος και φωτισμος της σκηνης, φιλτρα και χρωματισμοι της σκηνης, ηχητικα εφε χαρακτηρων, μουσικη και τιτλος
 
+ΔΗΜΙΟΥΡΓΙΑ ΤΟΥ ΔΙΚΟΥ ΜΟΥ ANIMATION.
+
 # 1st Deliverable
 Με την βοηθεια της ιστοσελιδας https://learn.unity.com/tutorial/lesson-1-2-creating-your-first-project?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee26fbbedbc2a001f8ec27d# δημιουργησα στο Unity σκηνη και προσθεσα το φοντο που βρηκα στα prefabs και τους τρεισδιαστατους ουρανοξυστες απο τον συμπιεσμενο φακελο Unit3_StarterFiles. Εφτιαξα εναν κωνο κυκλοφοριας μεσω των εργαλειων στο ProBuilder χρωματισμενο και τον τοποθετησα στην σκηνη. Προσθεσα τοπικους φωτισμους (game objects) στις λαμπες (spot light) και στα φαναρια (point light) και αλλαξα τον φωτισμο της σκηνης (directional light) ωστε να θυμιζει σκοταδι. 
 Κατεβασα τον φακελο που δινεται Unit4_StarterFiles, απο οπου πηρα τους χαρακτηρες: γατα, αυτοκινητο(ταξι), ανθρωπος(τουριστας, εξωγηινος). Στο unity δημιουργησα timeline για να δωσω και να ελεγχω την κινηση των χαρακατηρων στην σκηνη. Προσθεσα στο timeline τα δυο ταξι, μια γατα, εναν ανθρωπο και εναν εξωγηινο. Ορισα για αυτα συγκεκριμενες ενεργειες (animations) ξεκινωντας και καταληγοντας σε διαφορετικες θεσεις στην σκηνη. Επισης εδωσα στην καμερα που υπαρχει στην σκηνη συνεχομενη κινηση (loop).
@@ -49,6 +51,20 @@ H Επεξεργασια του τιτλου βρισκεται εδω (χρησ
 ![titloss](https://user-images.githubusercontent.com/101890627/236899126-c4843248-f342-46a8-92cf-ba07e096cb0d.png)
 
 # 3rd Deliverable 
+Στο τριτο παραδοτεο εφτιαξα το δικο μου animation με πακετα (assets) που βρηκα στο assets store του unity : https://assetstore.unity.com/?orderBy=1
+Συγκεκριμενα, βρηκα και κατεβασα τη σκηνη μου, τους χαρακτηρες (trolls και στρατιωτες) μου και τη μουσικη. 
+![My animation - rpgpp_lt_scene_1 0 - Windows, Mac, Linux - Unity 2021 3 21f1_ _DX11_ 5_6_2023 7_08_10 μμ](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/a5ad9204-5a36-49f9-a35b-e64f55a9f2ae)
+
+Τοποθετησα τη σκηνη και τον χαρακτηρα και δημιουργησα ενα timeline για να μπορω να χειριζομαι τις κινησεις και τις θεσεις των χαρακτηρων. τοποθετησα το αεροπλανο και τους στρατιωτες περνοντας τα απο τα assets (project window) στο hierarchy.για να περασω τις κινησεις των χαρακτηρων δημιουργησα animation tracks στο timeline για το καθε object και εβαλα τις κινησεις (απο assets) στα frames που ηθελα (προσθηκη keyframes). Μετα περασα κι αλλο χαρακτηρα (troll) ωστε να αλληλεπιδραει με τον δευτερο στρατιωτη με δικες του κινησεις (τρεξιμο, επιθεση). Κατεβασα το cinemachine για να κινηματογραφησω το project. προσθεσα καμερες (σαν αντικειμενα στο hierarcy) για να δημιουργησω διαφορετικα πλανα και στο inspector προσθεσα το cinemachineVirtualCamera για να παρει (σε καθε καμερα) την ιδιοτητα της καμερας και το post-process volume για να μπορω να βαλω εφε στη καθε σκηνη.  
+![My animation - rpgpp_lt_scene_1 0 - Windows, Mac, Linux - Unity 2021 3 21f1_ _DX11_ 5_6_2023 7_11_54 μμ](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/e0dc1e76-58a9-40fa-ad12-dd408339fd58)
+
+Στο timeline  χρησιμοποιησα keyframes εαν ηθελα να δωσω κινηση στην καμερα. Δημιουργησα αντικειμενο για ηχο (gameObject/audio source) και το εβαλα στο timeline, περασα μεσα τη μουσικη απτο inspector (audioclip). Επεξεργαστηκα τον ηχο με το audio mixer. 
+![My animation - rpgpp_lt_scene_1 0 - Windows, Mac, Linux - Unity 2021 3 21f1_ _DX11_ 5_6_2023 7_10_57 μμ](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/304e596c-abc1-4731-9682-6164a672702f)
+
+Τελος, κατεβασα τη γραμματοσειρα bangers και δημιουργησα τον τιτλο μου (gameObject/UI/textMeshPro), που τον διαμορφωσα οπως ηθελα στο inspector
+Προσθεσα activation tracks στο timeline για να οριζω ποτε θα εμφανιζονται καποιοι χαρακτηρες στη σκηνη, ποσο θα διαρκουν οι κινησεις, η μουσικη, η εμφανιση του τιτλου και πως θα εναλλασσονται τα πλανα των καμερων.
+![My animation - rpgpp_lt_scene_1 0 - Windows, Mac, Linux - Unity 2021 3 21f1_ _DX11_ 5_6_2023 7_12_41 μμ](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/06a74534-35d4-41d6-af67-6eeb09da28c3)
+
 
 
 # Conclusions
