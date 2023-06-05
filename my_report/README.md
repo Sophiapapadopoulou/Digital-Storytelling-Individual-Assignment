@@ -71,6 +71,13 @@ H Επεξεργασια του τιτλου βρισκεται εδω (χρησ
 ![εικόνα_2023-06-05_195453067](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/e821940c-9b7f-4975-a017-7820d30260e8)
 ![tr](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/a9469456-2507-44ae-af75-3d82a3e937e9)
 
+Υπηρξε ενα προβλημα στον κωδικα, ο οποιος εμφανιζε σφαλματα και τελικα δεν ηταν δυνατον να τα λυσω και να κανω εξαγωγη το αρχειο, γι αυτον τον λογο ανεβασα το βιντεο (deliverable 3) σαν αρχειο καταγραφης οθονης (mp4).
+
+
+
+https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/27631d5c-3b84-4e38-9e42-94f25f0c3f5a
+
+
 
 # Conclusions
 
