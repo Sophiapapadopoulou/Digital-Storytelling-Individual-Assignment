@@ -65,6 +65,7 @@ H Επεξεργασια του τιτλου βρισκεται εδω (χρησ
 Προσθεσα activation tracks στο timeline για να οριζω ποτε θα εμφανιζονται καποιοι χαρακτηρες στη σκηνη, ποσο θα διαρκουν οι κινησεις, η μουσικη, η εμφανιση του τιτλου και πως θα εναλλασσονται τα πλανα των καμερων.
 ![My animation - rpgpp_lt_scene_1 0 - Windows, Mac, Linux - Unity 2021 3 21f1_ _DX11_ 5_6_2023 7_12_41 μμ](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/06a74534-35d4-41d6-af67-6eeb09da28c3)
 
+εδω βρισκεται ο,τι χρειαστηκε να κατεβασω (cinemachine, post processing, recorder για την καταγραφη της ταινιας, twxt mesh pro, unity ui, universal rp):![pack](https://github.com/Sophiapapadopoulou/Digital-Storytelling-Individual-Assignment/assets/101890627/a90338b7-a875-4397-964e-a81afcf5ea84)
 
 
 # Conclusions
